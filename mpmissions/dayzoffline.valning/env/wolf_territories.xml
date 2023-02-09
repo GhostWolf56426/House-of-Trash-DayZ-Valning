@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="4291611852">
-        <zone name="HuntingGround" smin="1" smax="1" dmin="1" dmax="1" x="9569" z="890.5" r="100"/>
-        <zone name="HuntingGround" smin="1" smax="1" dmin="1" dmax="1" x="4843.33" z="510" r="100"/>
-        <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="2" x="2926.67" z="540" r="100"/>
-        <zone name="HuntingGround" smin="2" smax="2" dmin="1" dmax="1" x="2898.33" z="1326.67" r="100"/>
-        <zone name="HuntingGround" smin="1" smax="3" dmin="1" dmax="2" x="2381.67" z="2433.33" r="100"/>
-        <zone name="HuntingGround" smin="3" smax="3" dmin="2" dmax="3" x="3266.67" z="1766.67" r="100"/>
-        <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="2" x="4346.67" z="3750" r="100"/>
-        <zone name="HuntingGround" smin="3" smax="3" dmin="2" dmax="2" x="8256.67" z="1313.33" r="100"/>
+        <zone name="HuntingGround" smin="1" smax="1" dmin="1" dmax="1" x="9509" z="880.5" r="100"/>
+        <zone name="HuntingGround" smin="3" smax="3" dmin="2" dmax="2" x="8246.67" z="1313.33" r="100"/>
         <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="4" x="9520" z="1960" r="100"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8163.33" z="2323.33" r="100"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9070" z="1446.67" r="100"/>
-        <zone name="HuntingGround" smin="1" smax="5" dmin="1" dmax="4" x="2333.33" z="523.333" r="100"/>
-        <zone name="HuntingGround" smin="2" smax="3" dmin="2" dmax="3" x="3816.67" z="2773.33" r="100"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="3210" z="8545" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="2825" z="7825" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="4155" z="8405" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="3505" z="9105" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="2895" z="1955" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="2680" z="3295" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="3955" z="3105" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="5590" z="810" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="5675" z="1800" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="6150" z="2430" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="5510" z="3155" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="9035" z="3235" r="50"/>
-        <zone name="InfectedVillage" smin="2" smax="4" dmin="1" dmax="2" x="7850" z="4320" r="50"/>
+        <zone name="HuntingGround" smin="1" smax="1" dmin="0" dmax="0" x="9070" z="1446.67" r="100"/>
+        <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="1" x="3650" z="500" r="100"/>
+        <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="1" x="2480" z="3190" r="100"/>
+        <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="1" x="4350" z="3380" r="100"/>
+        <zone name="HuntingGround" smin="1" smax="2" dmin="1" dmax="1" x="7460" z="4090" r="100"/>
     </territory>
 </territory-type>
