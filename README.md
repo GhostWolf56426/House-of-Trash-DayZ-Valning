@@ -8,3 +8,5 @@ In the branch FullBuild are the house of the final build, this will at the end o
 
 ## Branch: testBuild
 In the branch testBuild are the test build for the build. This is where all the active development will be taking place.
+
+### CLEAN SLATE
