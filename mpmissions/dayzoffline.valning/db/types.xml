@@ -202,28 +202,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-    <type name="AK_WoodBttstck_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="AK_WoodBttstck_Camo">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
     <type name="AK_WoodHndgrd">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -236,28 +214,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-    <type name="AK_WoodHndgrd_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="AK_WoodHndgrd_Camo">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
     <type name="ASVAL">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
@@ -268,7 +224,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="AgaricusMushroom">
         <nominal>0</nominal>
@@ -792,7 +748,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Explosive">
         <nominal>8</nominal>
@@ -807,7 +763,6 @@
         <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
-        <value name="Unique"/>
     </type>
     <type name="Ammo_40mm_Smoke_Black">
         <nominal>15</nominal>
@@ -1364,18 +1319,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-    <type name="AntiPestsSpray">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
+        <usage name="Military"/>
     </type>
     <type name="Apple">
         <nominal>0</nominal>
@@ -4217,7 +4161,6 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
         <value name="Tier1"/>
     </type>
     <type name="ChristmasTree">
@@ -4741,7 +4684,6 @@
         <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
-        <value name="Unique"/>
     </type>
     <type name="Cleaver">
         <nominal>55</nominal>
@@ -4966,16 +4908,6 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
     </type>
-    <type name="ContaminatedArea_Dynamic">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
     <type name="CookingStand">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -5126,7 +5058,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
         <value name="Tier1"/>
     </type>
     <type name="CrookedNose">
@@ -5630,7 +5561,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -5876,7 +5806,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="EyeMask_Blue">
         <nominal>3</nominal>
@@ -5888,7 +5817,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="EyeMask_Christmas">
         <nominal>0</nominal>
@@ -5934,7 +5862,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Lunapark"/>
         <usage name="SeasonalEvent"/>
     </type>
     <type name="EyeMask_Valentines">
@@ -5958,7 +5885,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Lunapark"/>
         <usage name="SeasonalEvent"/>
     </type>
     <type name="EyePatch_Improvised">
@@ -6297,7 +6223,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="FirstAidKit">
         <nominal>15</nominal>
@@ -8851,7 +8776,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -9621,7 +9545,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="KitchenKnife">
         <nominal>60</nominal>
@@ -10749,29 +10673,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-    <type name="M4A1_Black">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="M4A1_Green">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
+        <usage name="Military"/>
     </type>
     <type name="M4_CQBBttstck">
         <nominal>5</nominal>
@@ -10857,28 +10759,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-    <type name="M4_RISHndgrd_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="M4_RISHndgrd_Green">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
     <type name="M4_Suppressor">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -10890,7 +10770,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>10</nominal>
@@ -10998,7 +10878,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Unique"/>
     </type>
     <type name="M9A1_Bayonet">
         <nominal>10</nominal>
@@ -11194,7 +11073,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="Mag_AKM_30Rnd">
         <nominal>5</nominal>
@@ -11302,7 +11181,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>20</nominal>
@@ -12225,7 +12104,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="MimeMask_Male">
         <nominal>3</nominal>
@@ -12237,7 +12115,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="MiniDress_BlueChecker">
         <nominal>30</nominal>
@@ -12379,39 +12256,6 @@
         <usage name="Hunting"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
-    </type>
-    <type name="Mosin9130_Black">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Mosin9130_Camo">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Mosin9130_Green">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
     </type>
     <type name="Mosin_Bayonet">
         <nominal>10</nominal>
@@ -13165,7 +13009,6 @@
         <category name="tools"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="OrienteeringCompass">
         <nominal>50</nominal>
@@ -13441,7 +13284,6 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="Pate">
         <nominal>23</nominal>
@@ -13718,7 +13560,6 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="PistolOptic">
         <nominal>10</nominal>
@@ -13836,7 +13677,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
         <usage name="Industrial"/>
-        <value name="Unique"/>
     </type>
     <type name="PlateCarrierHolster">
         <nominal>10</nominal>
@@ -14785,7 +14625,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Industrial"/>
-        <value name="Unique"/>
     </type>
     <type name="RemoteDetonatorReceiver">
         <nominal>0</nominal>
@@ -15025,7 +14864,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
         <value name="Tier1"/>
     </type>
     <type name="SambucusBerry">
@@ -15175,39 +15013,6 @@
         <category name="weapons"/>
     </type>
     <type name="SawedoffMosin9130">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="SawedoffMosin9130_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="SawedoffMosin9130_Camo">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="SawedoffMosin9130_Green">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -16703,7 +16508,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="StartKitIV">
         <nominal>30</nominal>
@@ -18390,7 +18195,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Military"/>
     </type>
     <type name="VitaminBottle">
         <nominal>40</nominal>
@@ -19179,7 +18984,6 @@
         <usage name="Hunting"/>
         <usage name="Office"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -19211,7 +19015,6 @@
         <usage name="Hunting"/>
         <usage name="Office"/>
         <usage name="School"/>
-        <usage name="Lunapark"/>
     </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>
