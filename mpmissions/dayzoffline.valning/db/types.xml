@@ -7958,9 +7958,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Headtorch_Grey">
         <nominal>120</nominal>
@@ -7977,9 +7974,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Heatpack">
         <nominal>50</nominal>
@@ -8005,7 +7999,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="HighCapacityVest_Olive">
         <nominal>5</nominal>
@@ -8018,7 +8011,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="HikingBootsLow_Beige">
         <nominal>30</nominal>
@@ -8116,8 +8108,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HikingJacket_Blue">
         <nominal>25</nominal>
@@ -8131,8 +8121,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="HikingJacket_Green">
         <nominal>15</nominal>
@@ -8146,8 +8134,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HikingJacket_Red">
         <nominal>25</nominal>
@@ -8161,8 +8147,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="HockeyHelmet_Black">
         <nominal>30</nominal>
@@ -8244,9 +8228,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Hoodie_Black">
         <nominal>30</nominal>
@@ -8299,8 +8280,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Hoodie_Grey">
         <nominal>35</nominal>
@@ -8314,7 +8293,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
     </type>
     <type name="Hoodie_Red">
         <nominal>35</nominal>
@@ -8364,8 +8342,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HunterPants_Brown">
         <nominal>20</nominal>
@@ -8378,8 +8354,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HunterPants_Spring">
         <nominal>20</nominal>
@@ -8392,8 +8366,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HunterPants_Summer">
         <nominal>25</nominal>
@@ -8406,9 +8378,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HunterPants_Winter">
         <nominal>15</nominal>
@@ -8421,9 +8390,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingBag">
         <nominal>15</nominal>
@@ -8437,17 +8403,6 @@
         <category name="containers"/>
         <usage name="Hunting"/>
     </type>
-    <type name="HuntingBag_Hannah">
-        <nominal>0</nominal>
-        <lifetime>2600</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
-    </type>
     <type name="HuntingJacket_Autumn">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -8459,8 +8414,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingJacket_Brown">
         <nominal>20</nominal>
@@ -8473,8 +8426,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingJacket_Spring">
         <nominal>20</nominal>
@@ -8487,8 +8438,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingJacket_Summer">
         <nominal>25</nominal>
@@ -8501,9 +8450,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingJacket_Winter">
         <nominal>25</nominal>
@@ -8516,9 +8462,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingKnife">
         <nominal>60</nominal>
@@ -8545,9 +8488,6 @@
         <category name="weapons"/>
         <tag name="floor"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingVest">
         <nominal>10</nominal>
@@ -8632,8 +8572,6 @@
         <category name="weapons"/>
         <usage name="Farm"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="Izh18Shotgun">
         <nominal>65</nominal>
@@ -8648,9 +8586,6 @@
         <usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Izh43Shotgun">
         <nominal>50</nominal>
@@ -8664,8 +8599,6 @@
         <category name="weapons"/>
         <usage name="Farm"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="Jeans_Black">
         <nominal>20</nominal>
@@ -8679,10 +8612,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Jeans_Blue">
         <nominal>20</nominal>
@@ -8696,10 +8625,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Jeans_BlueDark">
         <nominal>20</nominal>
@@ -8713,10 +8638,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Jeans_Brown">
         <nominal>20</nominal>
@@ -8730,10 +8651,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Jeans_Green">
         <nominal>20</nominal>
@@ -8747,10 +8664,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Jeans_Grey">
         <nominal>20</nominal>
@@ -8764,10 +8677,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="JoggingShoes_Black">
         <nominal>30</nominal>
