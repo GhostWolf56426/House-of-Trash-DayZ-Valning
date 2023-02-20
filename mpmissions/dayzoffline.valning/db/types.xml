@@ -15551,9 +15551,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Black">
         <nominal>8</nominal>
@@ -15566,8 +15563,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Grey">
         <nominal>8</nominal>
@@ -15617,9 +15612,6 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TaloonBag_Green">
         <nominal>30</nominal>
@@ -15633,9 +15625,6 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TaloonBag_Orange">
         <nominal>30</nominal>
@@ -15649,9 +15638,6 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TaloonBag_Violet">
         <nominal>30</nominal>
@@ -15665,9 +15651,6 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TankerHelmet">
         <nominal>5</nominal>
@@ -15681,8 +15664,6 @@
         <category name="clothes"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TannedLeather">
         <nominal>0</nominal>
@@ -15809,9 +15790,6 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="TomatoSeeds">
         <nominal>0</nominal>
@@ -16360,8 +16338,6 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Office"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="TunaCan_Opened">
         <nominal>0</nominal>
