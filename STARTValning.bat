@@ -1,7 +1,7 @@
 @echo off
 :start
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netlog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=Profilesfolder "-mod=@AJs Creatures;@DayZ-Expansion-Navigation;@DayZ-Expansion-Chat;@DayZ-Expansion-Groups;@DayZ-Expansion-Book;@DayZ-Expansion;@DayZ-Expansion-Core;@Valning Map;@Dabs Framework;@VPPAdminTools;@CF" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=Profilesfolder "-mod=@BaseBuildingPlus;@AJs Creatures;@DayZ-Expansion-Navigation;@DayZ-Expansion-Chat;@DayZ-Expansion-Groups;@DayZ-Expansion-Book;@DayZ-Expansion;@DayZ-Expansion-Core;@Valning Map;@Dabs Framework;@VPPAdminTools;@CF" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 7200
 taskkill /im DayZServer_x64.exe /F

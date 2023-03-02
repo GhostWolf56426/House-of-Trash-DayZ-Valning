@@ -43,5 +43,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="mods">
 		<file name="AJs_Creatures_Types.xml" type="types"/>
 		<file name="AJs_Creatures_events.xml" type="events"/>
+		<file name="BBP_types.xml" type="types"/>
 	</ce>
 </economycore>
